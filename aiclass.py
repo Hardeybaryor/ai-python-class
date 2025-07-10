@@ -54,3 +54,7 @@
 # fav_food = "Amala"
 # fav_game = "Ludo"
 # print_llm_response (f"recommend to me a new song to listen to based on my likes of {fav_movie}, {fav_food} and {fav_game}?")
+
+
+# type(17)
+# type (Adebayo)
