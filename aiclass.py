@@ -55,6 +55,27 @@
 # fav_game = "Ludo"
 # print_llm_response (f"recommend to me a new song to listen to based on my likes of {fav_movie}, {fav_food} and {fav_game}?")
 
-
+# Function Action on Data
 # type(17)
 # type (Adebayo)
+# print(len("Hello World!"))
+# print(round(42.77))
+# string_length = len("Hello World")
+# print(string_length)
+
+# def print_llm_response(prompt):
+#     print(f"Generate response for the prompt: {prompt}")
+
+# number_of_lines = 9
+# prompt = f"Write a {number_of_lines} line poem about the beauty of nature."
+# print_llm_response(prompt)
+
+
+# def get_llm_response(prompt):
+#     return f"Generated response for the prompt: {prompt}"
+
+
+# number_of_lines = 9
+# prompt = f"Write a {number_of_lines} line poem about the beauty of nature."
+# response = get_llm_response(prompt)
+# print(response)
